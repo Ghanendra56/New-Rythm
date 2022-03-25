@@ -1,0 +1,26 @@
+{
+   "token": "OTMzNzI5ODM0OTAxODYwMzgy.YelxrA.id9DusV4ML8PBUnr6syirUV7-Bs",
+   "prefix": "!",
+   "ownerIDS": [
+      "780327720214069308"
+   ],
+   "status": {
+      "text": "{prefix}help | played {songsplayed} Songs on {guildcount} Guilds | Support: https://dsc.gg/syntaxerrorthedev",
+      "text2": "By: Syntax Codes Inc.",
+      "type": "PLAYING",
+      "url": "https://twitch.tv/syntaxerrorthedev"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "localhost",
+            "port": 2333,
+            "password": "youshallnotpass"
+         }
+      ]
+   },
+   "spotify": {
+      "clientID": "979b2fabc04f467f95b3457a9400f02f",
+      "clientSecret": "c1519e3c8d5043208f1650bc0ac9b758"
+   }
+}
